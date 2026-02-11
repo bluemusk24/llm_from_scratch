@@ -1,8 +1,6 @@
 ### PROJECT DESCRIPTION
 
-This project involves implementing a ```GPT-2–style autoregressive language model``` from scratch in Python. The model is a decoder-only ```Transformer``` trained 
-
-using next-token prediction, featuring ***token and positional embeddings***, ***multi-head causal self-attention***, ***feed-forward networks***, ***shortcut residual connections***, and ***layer normalization***. 
+This project involves implementing a ```GPT-2–style autoregressive language model``` from scratch in Python. The model is a decoder-only ```Transformer``` trained using next-token prediction, featuring ***token and positional embeddings***, ***multi-head causal self-attention***, ***feed-forward networks***, ***shortcut residual connections***, and ***layer normalization***. 
 
 The goal is to understand the core architecture and training dynamics of large language models by building and training a small-scale GPT-2–like model without relying on high-level libraries.
 
