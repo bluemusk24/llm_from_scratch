@@ -1,0 +1,4 @@
+pypdf
+tiktoken
+torch
+numpy
